@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Raí Freire 👨‍💻
 - 🔭 Atuando como professor de programação Python
-- 🌱 Estudando Engenharia de Dados
+- 🌱 Estudando Computação em Nuvem
 - 📚 Pós Graduando Engenharia de dados
 - 🎓 Formado Sistemas de Informação(2016)
-- 📜 Certificação - AWS Certified Cloud Practitioner(2024)
+- 📜 Certificação - AWS Certified Developer - Associate(2025 - estudando para obter) - AWS Certified Cloud Practitioner(2024)
 
 
 ## 🛠 Hard Skills
